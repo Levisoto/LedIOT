@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "175298879048",
+    "firebase_url": "https://uvas-studio.firebaseio.com",
+    "project_id": "uvas-studio",
+    "storage_bucket": "uvas-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175298879048:android:f2ef94afb4e8c43a",
+        "android_client_info": {
+          "package_name": "com.example.leviss.lediot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175298879048-1udg4sdk96q0hdkhlbmedc8bpcrut1hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leviss.lediot",
+            "certificate_hash": "67977000809d12adf0b2bfbad7f1c41388da8f45"
+          }
+        },
+        {
+          "client_id": "175298879048-jj5iuc70oml027h6t8vgf0aelcthcl56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nzWOJrcemj8jgjeSQI5D-et0D3XRpFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175298879048-jj5iuc70oml027h6t8vgf0aelcthcl56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
